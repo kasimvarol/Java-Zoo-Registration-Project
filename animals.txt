@@ -1,0 +1,6 @@
+Lion 1 Kalahari Jacob King 1,70 350 7 Birth false true
+Platypus 2 Australia Jessie Bubble 0,90 20 5 Spawn true 0,30
+Snake 3 Iran Ahmet Saroo 2,00 60 9 true 0 true
+Crocodile 4 Africa Taylor Bignoise 1,90 100 12 false 4 20
+Eagle 5 America Robert Harpy 1,20 50 7 true Black 3048
+Penguin 6 Antarctica Beyza Rico 0,60 30 5 false ReddishBrown DarkYellow
